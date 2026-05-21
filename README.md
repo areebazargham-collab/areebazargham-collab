@@ -33,14 +33,16 @@
 
 </p>
 
----
-🛠️ Technical Skills
+## 🛠️ Technical Skills
+
+```bash
 💻 Languages:     PHP | JavaScript
 ⚙️ Frameworks:    Laravel
 🎨 Frontend:      HTML | CSS | Bootstrap
 🗄️ Database:      MySQL
 🛠️ Tools:         Git | Composer | VS Code
 🔗 Concepts:      REST APIs | MVC Architecture
+```
 
 ## 🧠 Currently Learning
 
