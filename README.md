@@ -34,6 +34,13 @@
 </p>
 
 ---
+🛠️ Technical Skills
+💻 Languages:     PHP | JavaScript
+⚙️ Frameworks:    Laravel
+🎨 Frontend:      HTML | CSS | Bootstrap
+🗄️ Database:      MySQL
+🛠️ Tools:         Git | Composer | VS Code
+🔗 Concepts:      REST APIs | MVC Architecture
 
 ## 🧠 Currently Learning
 
@@ -52,6 +59,14 @@
  
 ⚡ JavaScript Mini Projects
 
+📝 Blog Management System
+✔ Full CRUD functionality 
+✔ Authentication system 
+✔ Comment feature
+
+🎨 Frontend Projects
+✔ Dynamic Cards (JavaScript DOM)
+✔ Responsive Landing Page (Bootstrap)
 ✔ Dynamic Cards
 ✔ DOM Manipulation
 ✔ Interactive Components
